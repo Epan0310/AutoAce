@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   background-color: #e3e7e8;
   font-family: "Poppins", sans-serif;
@@ -141,3 +142,18 @@ header .shopping span {
 .listCard .count {
   margin: 0 10px;
 }
+=======
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: antiquewhite;
+}
+>>>>>>> 330d6ad1974427d5274810d8c8c820f79ffff458
