@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // buatloginwoe.js
 document.addEventListener("DOMContentLoaded", function () {
   // Fungsi untuk menampilkan form Sign In
@@ -94,7 +93,7 @@ document.addEventListener("DOMContentLoaded", function () {
     signInForm.style.display = "block";
   }
 });
-=======
+
 // buatloginwoe.js
 document.addEventListener("DOMContentLoaded", function () {
   // Fungsi untuk menampilkan form Sign In
@@ -190,4 +189,3 @@ document.addEventListener("DOMContentLoaded", function () {
     signInForm.style.display = "block";
   }
 });
->>>>>>> 330d6ad1974427d5274810d8c8c820f79ffff458
